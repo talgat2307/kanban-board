@@ -1,6 +1,4 @@
-## Kanban / Trello Board 
-
-Demo - https://talgat2307.github.io/kanban-board/
+## Kanban / Trello Board
 
 ![](images/screenshot.png)
 
